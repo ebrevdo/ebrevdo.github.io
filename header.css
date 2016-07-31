@@ -1,0 +1,36 @@
+.header-name {
+	font-size: xx-large;
+	font-weight: bold;
+	color: #336600;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.header-links {
+	text-align: right;
+	vertical-align: top;
+}
+.header-links a {
+	text-decoration: none;
+}
+.justify {
+	text-align: justify;
+}
+h2 {
+	font-size: x-large;
+	font-weight: bolder;
+}
+
+
+.section_header {
+	background-color: #C0DCC0;
+	font-size: x-large;
+	width: 85%;
+}
+
+.section {
+	width: 80%;
+	padding-left: 2%;
+}
+
+h3.sec {
+	color: #005000;
+}
