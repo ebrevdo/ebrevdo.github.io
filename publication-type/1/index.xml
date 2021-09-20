@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Eugene Brevdo</title>
+    <link>https://ebrevdo.github.io/publication-type/1/</link>
+      <atom:link href="https://ebrevdo.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ebrevdo.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>1</title>
+      <link>https://ebrevdo.github.io/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>Dynamic control flow in large-scale machine learning</title>
+      <link>https://ebrevdo.github.io/publication/dblp-confeurosys-yu-abbbddghhikmm-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://ebrevdo.github.io/publication/dblp-confeurosys-yu-abbbddghhikmm-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tensor2Tensor for Neural Machine Translation</title>
+      <link>https://ebrevdo.github.io/publication/dblp-confamta-vaswani-bbcggjkk-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://ebrevdo.github.io/publication/dblp-confamta-vaswani-bbcggjkk-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Probabilistic Programming</title>
+      <link>https://ebrevdo.github.io/publication/dblp-conficlr-tran-hsb-0-b-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://ebrevdo.github.io/publication/dblp-conficlr-tran-hsb-0-b-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stylistic analysis of paintings using wavelets and machine learning</title>
+      <link>https://ebrevdo.github.io/publication/dblp-confeusipco-jafarpour-pbhbd-09/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://ebrevdo.github.io/publication/dblp-confeusipco-jafarpour-pbhbd-09/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

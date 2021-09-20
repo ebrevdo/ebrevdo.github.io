@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Eugene Brevdo</title>
+    <link>https://ebrevdo.github.io/project/</link>
+      <atom:link href="https://ebrevdo.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://ebrevdo.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>https://ebrevdo.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>MLGO</title>
+      <link>https://ebrevdo.github.io/project/mlgo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ebrevdo.github.io/project/mlgo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reverb</title>
+      <link>https://ebrevdo.github.io/project/reverb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ebrevdo.github.io/project/reverb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TensorFlow</title>
+      <link>https://ebrevdo.github.io/project/tensorflow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ebrevdo.github.io/project/tensorflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TensorFlow Probability</title>
+      <link>https://ebrevdo.github.io/project/tf-probability/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ebrevdo.github.io/project/tf-probability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TF Agents</title>
+      <link>https://ebrevdo.github.io/project/tf-agents/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ebrevdo.github.io/project/tf-agents/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
