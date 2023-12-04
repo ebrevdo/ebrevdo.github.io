@@ -5,12 +5,36 @@
     <link>https://ebrevdo.github.io/publication-type/1/</link>
       <atom:link href="https://ebrevdo.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ebrevdo.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://ebrevdo.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>HALP: Heuristic Aided Learned Preference Eviction Policy for YouTube Content Delivery Network</title>
+      <link>https://ebrevdo.github.io/publication/dblp-confnsdi-song-csabcjjsg-23/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://ebrevdo.github.io/publication/dblp-confnsdi-song-csabcjjsg-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Transferable Approach for Partitioning Machine Learning Models on Multi-Chip-Modules</title>
+      <link>https://ebrevdo.github.io/publication/dblp-confmlsys-xie-pbp-0-mblz-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://ebrevdo.github.io/publication/dblp-confmlsys-xie-pbp-0-mblz-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differentiable Architecture Search for Reinforcement Learning</title>
+      <link>https://ebrevdo.github.io/publication/dblp-confautoml-miao-scpybf-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://ebrevdo.github.io/publication/dblp-confautoml-miao-scpybf-22/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Dynamic control flow in large-scale machine learning</title>

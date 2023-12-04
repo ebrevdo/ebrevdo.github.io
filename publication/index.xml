@@ -5,12 +5,60 @@
     <link>https://ebrevdo.github.io/publication/</link>
       <atom:link href="https://ebrevdo.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ebrevdo.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://ebrevdo.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>HALP: Heuristic Aided Learned Preference Eviction Policy for YouTube Content Delivery Network</title>
+      <link>https://ebrevdo.github.io/publication/dblp-confnsdi-song-csabcjjsg-23/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://ebrevdo.github.io/publication/dblp-confnsdi-song-csabcjjsg-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kepler: Robust Learning for Parametric Query Optimization</title>
+      <link>https://ebrevdo.github.io/publication/dblp-journalspacmmod-doshi-zjmhabf-23/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://ebrevdo.github.io/publication/dblp-journalspacmmod-doshi-zjmhabf-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Next 700 ML-Enabled Compiler Optimizations</title>
+      <link>https://ebrevdo.github.io/publication/dblp-journalscorrabs-2311-10800/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://ebrevdo.github.io/publication/dblp-journalscorrabs-2311-10800/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Transferable Approach for Partitioning Machine Learning Models on Multi-Chip-Modules</title>
+      <link>https://ebrevdo.github.io/publication/dblp-confmlsys-xie-pbp-0-mblz-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://ebrevdo.github.io/publication/dblp-confmlsys-xie-pbp-0-mblz-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differentiable Architecture Search for Reinforcement Learning</title>
+      <link>https://ebrevdo.github.io/publication/dblp-confautoml-miao-scpybf-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://ebrevdo.github.io/publication/dblp-confautoml-miao-scpybf-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ProtNLM: Model-based Natural Language Protein Annotation</title>
+      <link>https://ebrevdo.github.io/publication/gane-2022-az/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://ebrevdo.github.io/publication/gane-2022-az/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>MLGO: a Machine Learning Guided Compiler Optimizations Framework</title>
@@ -29,18 +77,18 @@
     </item>
     
     <item>
-      <title>Dynamic Control Flow in Large-Scale Machine Learning</title>
-      <link>https://ebrevdo.github.io/publication/dblp-journalscorrabs-1805-01772/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://ebrevdo.github.io/publication/dblp-journalscorrabs-1805-01772/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Dynamic control flow in large-scale machine learning</title>
       <link>https://ebrevdo.github.io/publication/dblp-confeurosys-yu-abbbddghhikmm-18/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://ebrevdo.github.io/publication/dblp-confeurosys-yu-abbbddghhikmm-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Control Flow in Large-Scale Machine Learning</title>
+      <link>https://ebrevdo.github.io/publication/dblp-journalscorrabs-1805-01772/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://ebrevdo.github.io/publication/dblp-journalscorrabs-1805-01772/</guid>
       <description></description>
     </item>
     
