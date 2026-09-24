@@ -2,28 +2,53 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ebrevdo.github.io/publication-type/1/</loc>
-    <lastmod>2023-12-04T11:39:18-08:00</lastmod>
+    <loc>https://ebrevdo.github.io/project/mlgo/</loc>
   </url><url>
-    <loc>https://ebrevdo.github.io/publication-type/2/</loc>
-    <lastmod>2023-12-04T11:39:18-08:00</lastmod>
+    <loc>https://ebrevdo.github.io/project/protnlm/</loc>
+  </url><url>
+    <loc>https://ebrevdo.github.io/project/reverb/</loc>
+  </url><url>
+    <loc>https://ebrevdo.github.io/project/synchrosqueezing/</loc>
+  </url><url>
+    <loc>https://ebrevdo.github.io/project/tensorflow/</loc>
+  </url><url>
+    <loc>https://ebrevdo.github.io/project/msgspec-serde/</loc>
+  </url><url>
+    <loc>https://ebrevdo.github.io/project/tf-probability/</loc>
+  </url><url>
+    <loc>https://ebrevdo.github.io/project/tf-agents/</loc>
+  </url><url>
+    <loc>https://ebrevdo.github.io/publication-type/4/</loc>
+    <lastmod>2026-09-24T14:19:50-07:00</lastmod>
   </url><url>
     <loc>https://ebrevdo.github.io/</loc>
+    <lastmod>2026-09-24T14:19:50-07:00</lastmod>
+  </url><url>
+    <loc>https://ebrevdo.github.io/publication/gpt-oss-model-card/</loc>
+    <lastmod>2026-09-24T14:19:50-07:00</lastmod>
+  </url><url>
+    <loc>https://ebrevdo.github.io/publication_types/</loc>
+    <lastmod>2026-09-24T14:19:50-07:00</lastmod>
+  </url><url>
+    <loc>https://ebrevdo.github.io/publication/</loc>
+    <lastmod>2026-09-24T14:19:50-07:00</lastmod>
+  </url><url>
+    <loc>https://ebrevdo.github.io/publication/gpt-4o-system-card/</loc>
+    <lastmod>2026-09-24T14:19:50-07:00</lastmod>
+  </url><url>
+    <loc>https://ebrevdo.github.io/publication-type/1/</loc>
+    <lastmod>2026-09-24T14:19:50-07:00</lastmod>
+  </url><url>
+    <loc>https://ebrevdo.github.io/publication/dblp-journalscorrabs-2311-10800/</loc>
+    <lastmod>2026-09-24T14:19:50-07:00</lastmod>
+  </url><url>
+    <loc>https://ebrevdo.github.io/publication-type/2/</loc>
     <lastmod>2023-12-04T11:39:18-08:00</lastmod>
   </url><url>
     <loc>https://ebrevdo.github.io/publication/dblp-confnsdi-song-csabcjjsg-23/</loc>
     <lastmod>2023-12-04T11:39:17-08:00</lastmod>
   </url><url>
     <loc>https://ebrevdo.github.io/publication/dblp-journalspacmmod-doshi-zjmhabf-23/</loc>
-    <lastmod>2023-12-04T11:39:17-08:00</lastmod>
-  </url><url>
-    <loc>https://ebrevdo.github.io/publication_types/</loc>
-    <lastmod>2023-12-04T11:39:18-08:00</lastmod>
-  </url><url>
-    <loc>https://ebrevdo.github.io/publication/</loc>
-    <lastmod>2023-12-04T11:39:18-08:00</lastmod>
-  </url><url>
-    <loc>https://ebrevdo.github.io/publication/dblp-journalscorrabs-2311-10800/</loc>
     <lastmod>2023-12-04T11:39:17-08:00</lastmod>
   </url><url>
     <loc>https://ebrevdo.github.io/publication-type/3/</loc>
@@ -72,22 +97,8 @@
   </url><url>
     <loc>https://ebrevdo.github.io/categories/</loc>
   </url><url>
-    <loc>https://ebrevdo.github.io/project/mlgo/</loc>
-  </url><url>
     <loc>https://ebrevdo.github.io/project/</loc>
   </url><url>
-    <loc>https://ebrevdo.github.io/project/protnlm/</loc>
-  </url><url>
-    <loc>https://ebrevdo.github.io/project/reverb/</loc>
-  </url><url>
-    <loc>https://ebrevdo.github.io/project/synchrosqueezing/</loc>
-  </url><url>
     <loc>https://ebrevdo.github.io/tags/</loc>
-  </url><url>
-    <loc>https://ebrevdo.github.io/project/tensorflow/</loc>
-  </url><url>
-    <loc>https://ebrevdo.github.io/project/tf-probability/</loc>
-  </url><url>
-    <loc>https://ebrevdo.github.io/project/tf-agents/</loc>
   </url>
 </urlset>

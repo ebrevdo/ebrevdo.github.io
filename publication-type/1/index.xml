@@ -5,12 +5,20 @@
     <link>https://ebrevdo.github.io/publication-type/1/</link>
       <atom:link href="https://ebrevdo.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 17 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ebrevdo.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://ebrevdo.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>1</title>
       <link>https://ebrevdo.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>The Next 700 ML-Enabled Compiler Optimizations</title>
+      <link>https://ebrevdo.github.io/publication/dblp-journalscorrabs-2311-10800/</link>
+      <pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://ebrevdo.github.io/publication/dblp-journalscorrabs-2311-10800/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>HALP: Heuristic Aided Learned Preference Eviction Policy for YouTube Content Delivery Network</title>

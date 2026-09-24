@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>4 | Eugene Brevdo</title>
+    <link>https://ebrevdo.github.io/publication-type/4/</link>
+      <atom:link href="https://ebrevdo.github.io/publication-type/4/index.xml" rel="self" type="application/rss+xml" />
+    <description>4</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 08 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ebrevdo.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>4</title>
+      <link>https://ebrevdo.github.io/publication-type/4/</link>
+    </image>
+    
+    <item>
+      <title>gpt-oss-120b &amp; gpt-oss-20b Model Card</title>
+      <link>https://ebrevdo.github.io/publication/gpt-oss-model-card/</link>
+      <pubDate>Fri, 08 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://ebrevdo.github.io/publication/gpt-oss-model-card/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GPT-4o System Card</title>
+      <link>https://ebrevdo.github.io/publication/gpt-4o-system-card/</link>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://ebrevdo.github.io/publication/gpt-4o-system-card/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
